@@ -11,7 +11,7 @@ Projeto: ICOMPY
 ## Informações:
 ICOMPY foi uma atividade resignada com o objetivo de aprendizagem em manipulação e lógica.
 
-Linguagem C e o Embarcadero Dev-C++ 6.3 como IDE.
+Linguagem C - IDE: Embarcadero Dev-C++ 6.3
 
 ## Arquivos:
 - ICOMPY ALLAN OGAWA.cpp , Feito em Linguagem C usando as bibliotecas stdio.h, stdlib.h, string.h e ctype.h
